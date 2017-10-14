@@ -10,12 +10,12 @@ const app = new Vue ({
       age: 35
     }
   },
-  template: '
+  template: `
     <div>
       <h2>Name: ({john.name})</h2>
       <h2>Age: ({john.age})</h2>
       <h2>Name: ({bobby.name})</h2>
       <h2>Age: ({bobby.age})</h2>
     </div>
-  '
+  `
 })
