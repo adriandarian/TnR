@@ -2,7 +2,7 @@
 #include<string.h>
 #define N 10
 
-void print(in *num, int n) {
+void print(int *num, int n) {
 	int i;
 	for (i = 0; i < n; i++)
 		printf("%d ", num[i]);
@@ -14,7 +14,7 @@ int main() {
 	int *ptr;
 	int temp;
 	int i, n, j;
-	printf("\nHowmany numbers do you want to enter: ");
+	printf("\nHow many numbers do you want to enter: ");
 	scanf("%d", &n);
 	printf("\nEnter a list of numbers to see all combinations:\n");
 	for (i = 0; i < n; i++)
