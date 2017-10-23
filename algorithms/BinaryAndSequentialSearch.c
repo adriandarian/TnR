@@ -38,7 +38,7 @@ int main() {
 	if ( index >= 0)
 		printf("\n%d found at index %d using linear search.", key, index);
 	else
-		printf("\Not Found!!");
+		printf("\nNot Found!!");
 	printf("\nEnter %d numbers in increasing order: ", MAX);
 	for (i = 0; i < MAX; i++)
 		scanf("%d", &numbers[i]);
