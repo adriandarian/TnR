@@ -7,3 +7,6 @@
 [submodule "Mobile-Frameworks/Flutter/flutter-login-ui"]
 	path = Mobile-Frameworks/Flutter/flutter-login-ui
 	url = https://github.com/adriandarian/flutter-login-ui.git
+[submodule "IoT/Arduino/arduinoVisualizer"]
+	path = IoT/Arduino/arduinoVisualizer
+	url = https://github.com/adriandarian/arduinoVisualizer.git
