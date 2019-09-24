@@ -22,3 +22,6 @@
 [submodule "Web-Frameworks/React/ReactRouterDOM"]
 	path = Web-Frameworks/React/ReactRouterDOM
 	url = https://github.com/adriandarian/ReactRouterDOM.git
+[submodule "Web-Applications/OktaCRUD"]
+	path = Web-Applications/OktaCRUD
+	url = https://github.com/adriandarian/OktaCRUD.git
