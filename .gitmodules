@@ -1,6 +1,9 @@
-[submodule "boilerplates/react-node-redis-boilerplate"]
-	path = boilerplates/react-node-redis-boilerplate
+[submodule "Boilerplates/react-node-redis-boilerplate"]
+	path = Boilerplates/react-node-redis-boilerplate
 	url = https://github.com/adriandarian/react-node-redis-boilerplate.git
-[submodule "boilerplates/mern-es8-boilerplate"]
-	path = boilerplates/mern-es8-boilerplate
+[submodule "Boilerplates/mern-es8-boilerplate"]
+	path = Boilerplates/mern-es8-boilerplate
 	url = https://github.com/adriandarian/mern-es8-boilerplate.git
+[submodule "Mobile-Frameworks/Flutter/flutter-login-ui"]
+	path = Mobile-Frameworks/Flutter/flutter-login-ui
+	url = https://github.com/adriandarian/flutter-login-ui.git
