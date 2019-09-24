@@ -25,3 +25,6 @@
 [submodule "Web-Applications/OktaCRUD"]
 	path = Web-Applications/OktaCRUD
 	url = https://github.com/adriandarian/OktaCRUD.git
+[submodule "Web-Frameworks/NUXT/nuxt"]
+	path = Web-Frameworks/NUXT/nuxt
+	url = https://github.com/adriandarian/nuxt.git
