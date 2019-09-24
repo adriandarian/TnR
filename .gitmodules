@@ -10,3 +10,6 @@
 [submodule "IoT/Arduino/arduinoVisualizer"]
 	path = IoT/Arduino/arduinoVisualizer
 	url = https://github.com/adriandarian/arduinoVisualizer.git
+[submodule "Web-Applications/scantron"]
+	path = Web-Applications/scantron
+	url = https://github.com/adriandarian/scantron.git
