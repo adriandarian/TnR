@@ -16,3 +16,6 @@
 [submodule "Web-Frameworks/Sails/learn-sails"]
 	path = Web-Frameworks/Sails/learn-sails
 	url = https://github.com/adriandarian/learn-sails.git
+[submodule "Stacks/MERN/mern"]
+	path = Stacks/MERN/mern
+	url = https://github.com/adriandarian/mern.git
