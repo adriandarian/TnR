@@ -13,3 +13,6 @@
 [submodule "Web-Applications/scantron"]
 	path = Web-Applications/scantron
 	url = https://github.com/adriandarian/scantron.git
+[submodule "Web-Frameworks/Sails/learn-sails"]
+	path = Web-Frameworks/Sails/learn-sails
+	url = https://github.com/adriandarian/learn-sails.git
